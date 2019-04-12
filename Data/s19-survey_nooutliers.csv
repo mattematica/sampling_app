@@ -1,0 +1,80 @@
+gender,hcolor,ecolor,baseball,football,distance,city,time,work,love_stats,math190,cig,mj,height,weight
+Female,Brown,brown,A's,49ers,0.2,Redwood City ,7,20-29 hours,Yes,No,No,No,69,135
+Female,Brown,hazel,Giants,49ers,1,Redwood City,6,20-29 hours,Yes,Yes,No,Yes,62,108
+Female,Brown,brown,Giants,Raiders,1,Redwood City ,8,0-9 hours,Yes,No,No,No,66,132
+Male,Brown,brown,Giants,49ers,1,Redwood City,10,0-9 hours,No,Yes,No,No,69,140
+Male,Brown,brown,Giants,Raiders,1.5,Redwood City ,5,10-19 hours,Yes,Yes,No,No,69,88.45
+Male,Blonde,hazel,A's,49ers,2,Redwood City ,13,0-9 hours,No,Yes,No,No,69,76
+Female,Brown,hazel,Giants,49ers,2.7,Redwood City ,60,20-29 hours,Yes,No,No,No,58,100
+Female,Brown,green,Giants,Raiders,3,San Carlos,15,0-9 hours,Yes,No,No,Yes,67,180
+Male,Brown,brown,Giants,49ers,3,San Carlos,15,20-29 hours,Yes,Yes,Yes,Yes,68,178
+Female,Brown,brown,Giants,49ers,3.3,Redwood City,10,0-9 hours,Yes,Yes,Yes,Yes,63,117
+Male,Black,brown,Giants,49ers,3.3,Redwood City,17,30-40 hours,No,Yes,No,No,75,232
+Female,Brown,brown,Giants,49ers,3.4,Redwood City,15,0-9 hours,No,No,No,No,60,113
+Male,No hair,brown,Giants,49ers,3.6,Redwood City,15,30-40 hours,No,No,Yes,Yes,63,160
+Male,Black,brown,A's,Raiders,4.4,Redwood City,15,40+ hours,Yes,No,No,Yes,68,145
+Female,Black,brown,Giants,49ers,4.5,Redwood City,15,20-29 hours,No,No,Yes,No,68,260
+Female,Brown,brown,Giants,49ers,4.6,Redwood City,14,10-19 hours,No,Yes,Yes,Yes,67,
+Male,Brown,brown,Giants,49ers,4.6,Redwood City,15,10-19 hours,Yes,No,No,No,69,167
+Male,Black,brown,A's,Raiders,4.8,Redwood City,30,10-19 hours,No,Yes,No,Yes,67,230
+Female,Brown,hazel,Giants,49ers,5,Belmont ,21,30-40 hours,Yes,No,No,Yes,63,165
+Female,Brown,hazel,Giants,49ers,5,Belmont,21,30-40 hours,Yes,No,No,Yes,63,165
+Male,Brown,brown,Giants,49ers,5,Redwood City ,35,0-9 hours,Yes,No,No,No,63,113
+Female,Brown,brown,Giants,49ers,5,Redwood City ,10,0-9 hours,Yes,No,No,Yes,63,115
+Female,Brown,brown,Giants,49ers,5,Belmont,20,20-29 hours,No,No,No,Yes,65,125
+Female,Black,brown,Giants,49ers,5,Belmont,20,30-40 hours,Yes,No,No,No,65,164
+Male,Blonde,blue,Giants,49ers,5,San Carlos,15,40+ hours,Yes,No,No,Yes,67,135
+Male,Brown,brown,Giants,49ers,5,Redwood City,10,10-19 hours,No,Yes,No,No,70,115
+Male,Brown,brown,Giants,49ers,5,Redwood City,15,10-19 hours,No,Yes,No,Yes,72,220
+Male,Black,brown,Giants,49ers,5.6,Redwood City ,50,20-29 hours,Yes,No,No,No,67.2,125
+Male,Black,brown,Giants,49ers,5.7,Redwood City,15,0-9 hours,Yes,Yes,No,Yes,68,165
+Female,Brown,hazel,Giants,49ers,5.9,San Carlos ,15,20-29 hours,Yes,No,No,No,60,114
+Male,Brown,brown,Giants,Raiders,5.9,Redwood City,18,0-9 hours,Yes,Yes,No,Yes,61,195
+Female,Brown,hazel,Giants,49ers,6,Redwood City ,15,30-40 hours,No,No,No,Yes,60,93
+Female,Blonde,blue,Giants,Raiders,6,Redwood City,20,0-9 hours,No,Yes,No,No,63,220
+Female,Brown,blue,Giants,49ers,6,Redwood City,15,0-9 hours,No,No,No,No,64,105
+Female,Brown,brown,Giants,49ers,6.3,Redwood City ,15,0-9 hours,Yes,No,No,No,65,180
+Female,Blonde,blue,Giants,49ers,6.5,Menlo Park,20,10-19 hours,No,No,No,No,66,140
+Female,Black,brown,Giants,49ers,7,Redwood City,20,0-9 hours,Yes,No,No,No,60,352
+Female,Brown,brown,Giants,49ers,7,Belmont,20,20-29 hours,Yes,No,No,Yes,64,117
+Male,Black,brown,Giants,49ers,7,Redwood City,20,20-29 hours,No,Yes,Yes,Yes,70,124.7
+Male,Black,brown,Giants,49ers,7.2,Redwood City,20,0-9 hours,Yes,No,No,No,70,180
+Female,Black,brown,Giants,49ers,7.3,Redwood City,40,20-29 hours,No,Yes,No,Yes,65,86.36
+Male,Black,brown,Giants,49ers,7.6,Belmont ,25,0-9 hours,No,Yes,No,Yes,70,150
+Female,Black,brown,Giants,49ers,8.1,Redwood City ,35,0-9 hours,No,No,No,No,63,160
+Female,Brown,brown,Giants,49ers,9.6,Redwood City,25,20-29 hours,No,No,No,No,59,105
+Female,Brown,brown,Giants,49ers,9.8,East Palo Alto,60,10-19 hours,No,Yes,No,No,61,92
+Male,Brown,brown,Giants,49ers,10,East Palo Alto,30,30-40 hours,Yes,Yes,Yes,No,57,180
+Male,Black,brown,Giants,49ers,10,San Carlos,20,20-29 hours,Yes,No,No,No,63,240
+Male,Black,brown,A's,Raiders,10,Redwood City,15,0-9 hours,Yes,No,No,No,64,185
+Female,Black,brown,Giants,49ers,10,Redwood City ,12,30-40 hours,Yes,No,No,Yes,64,130
+Female,Black,blue,Giants,49ers,10,San Mateo,25,30-40 hours,No,No,No,No,69,160
+Female,Black,blue,Giants,49ers,10,San Mateo ,25,0-9 hours,No,No,No,No,69,165
+Male,Black,brown,A's,Raiders,10,San Mateo,15,10-19 hours,No,Yes,No,No,69,260
+Female,Brown,brown,Giants,49ers,11,East Palo Alto,20,20-29 hours,No,No,No,No,62,180
+Male,Black,brown,Giants,49ers,11,Foster City,20,0-9 hours,Yes,Yes,No,No,63,125
+Female,Brown,brown,Giants,49ers,11,San Mateo,35,20-29 hours,No,Yes,No,No,63.3,370.45
+Female,Brown,brown,Giants,49ers,11,Belmont,20,20-29 hours,No,Yes,No,Yes,65,130
+Male,Black,brown,Giants,Raiders,11.1,Half Moon Bay,22,0-9 hours,Yes,No,No,No,73,195
+Female,Black,brown,Giants,49ers,11.6,Palo Alto,105,10-19 hours,Yes,No,No,No,62,84
+Female,Black,brown,Giants,49ers,12,East Palo Alto ,30,30-40 hours,No,No,No,No,59,154
+Male,Black,brown,Giants,49ers,12,East Palo Alto,30,10-19 hours,No,Yes,No,No,64,220
+Female,Brown,brown,Giants,49ers,12,East Palo Alto,50,30-40 hours,No,Yes,No,No,64,150
+Female,Black,brown,Giants,49ers,12,East Palo Alto ,30,10-19 hours,Yes,No,No,No,65,140
+Male,Black,brown,Giants,49ers,12,San Mateo,30,20-29 hours,No,Yes,No,No,65,
+Female,Brown,brown,Giants,49ers,13,Belmont,20,30-40 hours,No,Yes,No,Yes,52,231
+Female,Black,brown,Giants,49ers,13,San Mateo,30,10-19 hours,No,Yes,No,No,63,175
+Female,Brown,hazel,Giants,49ers,15,Pacifica ,30,20-29 hours,No,No,No,Yes,64,160
+Female,Brown,hazel,Giants,49ers,15,Foster City,45,30-40 hours,No,No,No,Yes,66,150
+Male,Black,brown,Giants,Raiders,15,San Mateo,30,0-9 hours,Yes,No,No,No,66.92,143.3
+Female,Brown,brown,Giants,Raiders,15.6,Half Moon Bay ,30,30-40 hours,Yes,No,No,No,65,160
+Male,Brown,brown,Giants,49ers,17.1,San Bruno,100,0-9 hours,No,Yes,Yes,Yes,62,106
+Male,Black,brown,A's,Raiders,19,Newark ,30,0-9 hours,No,Yes,No,No,74,180
+Male,Brown,brown,Giants,49ers,20,Daly City,30,0-9 hours,No,No,Yes,No,70,185
+Female,Brown,brown,Giants,49ers,21,South San Francisco,40,10-19 hours,No,No,No,Yes,64,150
+Female,Black,brown,Giants,49ers,21,Pacifica ,30,30-40 hours,Yes,No,No,Yes,65,170
+Female,Brown,brown,Giants,49ers,23,San Francisco,45,40+ hours,No,No,No,No,59,118
+Male,Black,brown,Giants,49ers,23,Daly City,30,10-19 hours,No,No,Yes,No,69,235
+Female,Black,brown,Giants,49ers,27,Hayward ,34,40+ hours,Yes,No,No,No,61,157
+Female,Brown,hazel,Giants,49ers,33,Castro Valley,45,10-19 hours,Yes,Yes,No,No,66,81
+Female,Brown,brown,Giants,49ers,47,Berkeley,105,10-19 hours,No,No,No,No,64,90

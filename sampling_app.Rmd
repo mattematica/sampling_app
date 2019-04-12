@@ -1,0 +1,61 @@
+---
+title: "Sampling App"
+author: "David Monarres"
+date: "March 29, 2019"
+output: html_document
+runtime: shiny
+---
+# Introduction
+
+We will use this little app to collect some random samples from our class data. 
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+class_data <- read_csv("Data/s19-survey_nooutliers.csv", 
+    col_types = cols(baseball = col_factor(levels = c("A's", 
+        "Giants")), cig = col_factor(levels = c("Yes", 
+        "No")), football = col_factor(levels = c("49ers", 
+        "Raiders")), gender = col_factor(levels = c("Female", 
+        "Male")), love_stats = col_factor(levels = c("Yes", 
+        "No")), math190 = col_factor(levels = c("Yes", 
+        "No")), mj = col_factor(levels = c("Yes", 
+        "No"))))
+create_histogram <- function(df, vari){
+    p <- ggplot(df, aes_string(x=vari)) + geom_histogram(bins=10, fill="white", color="black")
+    return(p)
+}
+```
+
+```{r, echo=FALSE}
+selectInput(label = "Choose Variable: ",choices = c("height", "distance"), inputId = "var",selected = "distance")
+
+numericInput(min = 1,max=100, step=1, inputId = "sample_size",value = 5,label = "Sample Size: ")
+
+
+renderPlot(create_histogram(class_data, input$var))
+```
+
+The mean of the population that you are sampling from is `r reactive(print(round(mean(class_data[[input$var]]),1)))`
+
+The standard deviation of the population that you are sampling from is `r reactive(print(round(sd(class_data[[input$var]]),1)))`
+
+Get a sample:
+```{r, echo=FALSE}
+actionButton("sample","Sample")
+```
+
+The sample that you just took is:
+```{r, echo=FALSE}
+reactive(
+  if(input$sample >0){
+    class_sample <- class_data[[input$var]][sample(1:length(class_data[[input$var]]),  input$sample_size)]
+    print(class_sample)
+    print("The mean of this sample is:")
+    print(round(mean(class_sample),1))
+    print("The sd of this sample is:")
+    print(round(sd(class_sample),1))
+  }
+)
+```
