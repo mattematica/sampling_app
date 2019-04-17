@@ -59,3 +59,8 @@ reactive(
   }
 )
 ```
+
+
+Take the means on your table and enter them into the spreadsheet here:
+
+<a href="https://docs.google.com/spreadsheets/d/1WkL3yacfHnoRDSKbnY_bP0FcuJ8-RMmMSIdwLy99vVI/edit?usp=sharing" target="_blank">Spreadsheet</a>
